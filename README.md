@@ -1,4 +1,5 @@
 # Simple-Linear-Regression
+![](SLR/Figure_1.png)
 <h2>A simple linear regression model build to predict sales based on marketing expenses in different sectors such as Television, Radio, Newspaper.</h2>
 
 <h3>Data :</h3>
@@ -10,7 +11,6 @@
 3  151.5   41.3       58.5   16.5
 4  180.8   10.8       58.4   17.9
 </pre>
-![](Simple-Linear-Regression/SLR/Figure_1.png)
 <h3>Summary of the model :</h3> 
 <pre>
 OLS Regression Results
