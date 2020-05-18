@@ -1,18 +1,17 @@
 # Simple-Linear-Regression
 A simple linear regression model build to predict sales based on marketing expenses.
-
-# Data :
 <pre>
+<h3>Data :</h3>
+
       TV  Radio  Newspaper  Sales
 0  230.1   37.8       69.2   22.1
 1   44.5   39.3       45.1   10.4
 2   17.2   45.9       69.3   12.0
 3  151.5   41.3       58.5   16.5
 4  180.8   10.8       58.4   17.9
-<pre/>
 
-# Summary of the model : 
-<pre>
+<h3>Summary of the model :</h3> 
+
 OLS Regression Results
 ==============================================================================
 Dep. Variable:                  Sales   R-squared:                       0.816
@@ -35,9 +34,8 @@ Prob(Omnibus):                  0.987   Jarque-Bera (JB):                0.150
 Skew:                          -0.006   Prob(JB):                        0.928
 Kurtosis:                       2.840   Cond. No.                         328.
 ==============================================================================
-<pre/>
 
-# R^2 :
-<pre>
+<h3>R^2 :</h3>
+
 r-squared score :  0.792103160124566
-<pre/>
+</pre>
