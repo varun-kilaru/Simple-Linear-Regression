@@ -1,6 +1,5 @@
 # Simple-Linear-Regression
 <h2>A simple linear regression model build to predict sales based on marketing expenses in different sectors such as Television, Radio, Newspaper.</h2>
-<img src="SLR/Figure_2.png">
 <h3>Data :</h3>
 <pre>
       TV  Radio  Newspaper  Sales
@@ -10,6 +9,7 @@
 3  151.5   41.3       58.5   16.5
 4  180.8   10.8       58.4   17.9
 </pre>
+<img src="SLR/Figure_1.png">
 <h3>Summary of the model :</h3> 
 <pre>
 OLS Regression Results
@@ -35,6 +35,8 @@ Skew:                          -0.006   Prob(JB):                        0.928
 Kurtosis:                       2.840   Cond. No.                         328.
 ==============================================================================
 </pre>
+<img src="SLR/Figure_2.png">
+<img src="SLR/Figure_3.png">
 <h3>R^2 Value:</h3>
 <pre>
 r-squared score :  0.792103160124566
