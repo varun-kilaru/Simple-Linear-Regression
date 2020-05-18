@@ -10,7 +10,7 @@
 3  151.5   41.3       58.5   16.5
 4  180.8   10.8       58.4   17.9
 </pre>
-![](SLR/Figure_1.png)
+![](Simple-Linear-Regression/SLR/Figure_1.png)
 <h3>Summary of the model :</h3> 
 <pre>
 OLS Regression Results
